@@ -22,7 +22,7 @@ export default class About extends React.Component{
                                 <h1 className='t-heading'>A little more about me 🚶 </h1>
                             </div>
                             <div className='personal'>
-                                <p>First things first, my name is Vamsinandan B S and I am an aspiring web developer pursuing my Bachelor of Technology in computer science and engineering(currently in 3rd year) from Cit Engineering College ,Bengaluru.<br/><br/>My interest revolves around web development , coding,ai and IoT.The passion of doing something good for society, helping others and developing useful products acts . <br/><br/>...........................................</p>
+                                <p>First things first, my name is Vamsinandan B S and I am an aspiring web developer pursuing my Bachelor of Technology in computer science and engineering(currently in 3rd year) from City Engineering College ,Bengaluru.<br/><br/>My interest revolves around web development , coding,ai and IoT.The passion of doing something good for society, helping others and developing useful products acts . <br/><br/>...........................................</p>
                             </div>
                             
                             </div>
