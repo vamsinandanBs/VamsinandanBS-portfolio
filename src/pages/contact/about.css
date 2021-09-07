@@ -136,3 +136,45 @@ h2,.language,.library,.tools>h3{
   ::-webkit-scrollbar-thumb:hover {
     background: #2EC4B6; 
   }
+  section {
+    padding: 16px;
+    display: flex;
+  }
+  section .thumbnail img {
+    height: 420px;
+  }
+  h2 {
+    padding: 8px;
+    margin: 8px 0;
+    width: fit-content;
+   
+  }
+  .contact {
+    flex-direction: column;
+  }
+  .contact form {
+    display: flex;
+    flex-direction: column;
+  }
+  .contact form input,
+  .contact form textarea {
+    padding: 12px;
+    margin: 8px 0;
+    font-family: "Raleway", "sans-serif";
+  }
+  button {
+    background-color: black;
+    color: white;
+    font-weight: 400;
+    padding: 12px;
+    margin: 8px 0;
+    font-family: "Raleway", "sans-serif";
+    font-size: 1.2rem;
+  }
+  .links {
+    flex-direction: column;
+  }
+  .links form {
+    display: flex;
+    flex-direction: column;
+  }
